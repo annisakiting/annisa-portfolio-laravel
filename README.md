@@ -35,8 +35,8 @@ Website telah dimodifikasi dengan tema warna ungu, pink, dan biru sehingga memil
 
 Nama : Annisa Kiting
 
-Universitas : (Isi nama kampusmu)
+Universitas : Universitas Hang Tuah Pekanbaru
 
-Jurusan : (Isi jurusanmu)
+Jurusan : Sistem Informasi
 
-Mata Kuliah : Pemrograman Web
+Mata Kuliah : E-Learning
