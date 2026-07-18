@@ -14,23 +14,11 @@ Website ini menampilkan informasi mengenai:
 
 Website telah dimodifikasi dengan tema warna ungu, pink, dan biru sehingga memiliki tampilan yang berbeda dari tutorial dosen.
 
----
 
-## 🖼 Screenshot Website
+## 📸 Screenshot Website
 
-Tambahkan screenshot website pada folder berikut:
-
-```
-public/screenshot/home.png
-```
-
-Lalu tampilkan dengan kode:
-
-```md
 ![Screenshot Website](public/screenshot/home.png)
-```
 
----
 
 ## 🚀 Teknologi yang Digunakan
 
