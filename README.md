@@ -14,23 +14,11 @@ Website ini menampilkan informasi mengenai:
 
 Website telah dimodifikasi dengan tema warna ungu, pink, dan biru sehingga memiliki tampilan yang berbeda dari tutorial dosen.
 
----
 
-## 🖼 Screenshot Website
+## 📸 Screenshot Website
 
-Tambahkan screenshot website pada folder berikut:
-
-```
-public/screenshot/home.png
-```
-
-Lalu tampilkan dengan kode:
-
-```md
 ![Screenshot Website](public/screenshot/home.png)
-```
 
----
 
 ## 🚀 Teknologi yang Digunakan
 
@@ -47,8 +35,8 @@ Lalu tampilkan dengan kode:
 
 Nama : Annisa Kiting
 
-Universitas : (Isi nama kampusmu)
+Universitas : Universitas Hang Tuah Pekanbaru
 
-Jurusan : (Isi jurusanmu)
+Jurusan : Sistem Informasi
 
-Mata Kuliah : Pemrograman Web
+Mata Kuliah : E-Learning
